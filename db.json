@@ -1,4 +1,5 @@
-[{
+{
+	"data":[{
 		"movie_title": "Avatar ",
 		"director_name": "James Cameron",
 		"actor_1_name": "CCH Pounder",
@@ -27,3 +28,5 @@
 		"movie_imdb_link": "http://www.imdb.com/title/tt1133985/?ref_=fn_tt_tt_1"
 	}
 ]
+	
+}
