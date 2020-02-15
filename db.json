@@ -992,48 +992,6 @@
 			"title_year": "2011",
 			"plot_keywords": "automaton|mechanical|railway station|steampunk|train",
 			"movie_imdb_link": "http://www.imdb.com/title/tt0970179/?ref_=fn_tt_tt_1"
-		},
-		{
-			"movie_title": "Wild Wild West ",
-			"director_name": "Barry Sonnenfeld",
-			"actor_1_name": "Will Smith",
-			"actor_2_name": "Salma Hayek",
-			"genres": "Action|Comedy|Sci-Fi|Western",
-			"language": "English",
-			"country": "USA",
-			"content_rating": "PG-13",
-			"budget": "170000000",
-			"title_year": "1999",
-			"plot_keywords": "buddy movie|general|inventor|steampunk|utah",
-			"movie_imdb_link": "http://www.imdb.com/title/tt0120891/?ref_=fn_tt_tt_1"
-		},
-		{
-			"movie_title": "The Mummy: Tomb of the Dragon Emperor ",
-			"director_name": "Rob Cohen",
-			"actor_1_name": "Jet Li",
-			"actor_2_name": "Brendan Fraser",
-			"genres": "Action|Adventure|Fantasy|Horror|Thriller",
-			"language": "English",
-			"country": "USA",
-			"content_rating": "PG-13",
-			"budget": "145000000",
-			"title_year": "2008",
-			"plot_keywords": "army|china|emperor|mummy|shangri la",
-			"movie_imdb_link": "http://www.imdb.com/title/tt0859163/?ref_=fn_tt_tt_1"
-		},
-		{
-			"movie_title": "Suicide Squad ",
-			"director_name": "David Ayer",
-			"actor_1_name": "Will Smith",
-			"actor_2_name": "Robin Atkin Downes",
-			"genres": "Action|Adventure|Comedy|Sci-Fi",
-			"language": "English",
-			"country": "USA",
-			"content_rating": "PG-13",
-			"budget": "175000000",
-			"title_year": "2016",
-			"plot_keywords": "based on comic book|critically bashed|father daughter relationship|reference to superman|super villain",
-			"movie_imdb_link": "http://www.imdb.com/title/tt1386697/?ref_=fn_tt_tt_1"
 		}
 	]
 }
